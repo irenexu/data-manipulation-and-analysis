@@ -1,0 +1,37 @@
+body {
+    background-color: black;
+}
+
+div {
+    text-align: center;
+    font-family: 'Libre Baskerville', serif;
+}
+
+.cat {
+    border: 6px solid #4E4FEB;
+    width: 50%;
+    height: 100%;
+    margin-top: 70px;
+}
+
+.img {
+    max-width: 400px;
+    height: auto;
+}
+
+h1 {
+    font-size: 18px;
+    color: #EEEEEE;
+    text-transform: lowercase;
+}
+
+h3 {
+    font-size: 15px;
+    color: #EEEEEE;
+    text-transform: lowercase;
+}
+
+p {
+    color: #068FFF;
+    font-size: 12px;
+}
